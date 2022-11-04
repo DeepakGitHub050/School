@@ -1,0 +1,80 @@
+#add{
+    font-weight: 500;
+    font-family: sans-serif;
+}
+#history{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(230, 241, 190);
+
+}
+body{
+    background: url(/school/BSS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+}
+h3{
+    color: brown;
+    font-family: cursive;
+}
+p{
+    color: white;
+}
+u{
+    color: white;
+    filter: drop-shadow(8px 8px 10px rgb(150, 215, 154));
+}
+img{
+    border-radius: 10%;
+    position: relative;
+    left: 30%;
+    filter: drop-shadow(8px 8px 9px grey)
+}
+#pri{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 45%;
+    color: white;
+    font-weight: bold;
+}
+#our{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(230, 241, 190)
+}
+#prin{
+    position: relative;
+    width: 15.5%;
+    left: 29%;
+}
+#rak{
+    border-radius: 10%;
+    position: relative;
+    left: 40%;
+}
+#mana{
+    position: relative;
+    left: 30.5%;
+    bottom: 100%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+#st{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(230, 241, 190);
+}
+#stu{
+    position: relative;
+    width: 30%;
+    left: 35%;
+}
+#tri{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
