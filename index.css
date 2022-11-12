@@ -35,7 +35,7 @@ img{
 #pri{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     position: relative;
-    left: 60%;
+    left: 63%;
     color: white;
     font-weight: bold;
 }
@@ -45,7 +45,7 @@ img{
     color: rgb(230, 241, 190)
 }
 .images{
-    max-width: 900px;
+    max-width: fit-content;
     max-height: fit-content;
     margin: 0 auto;
 }
