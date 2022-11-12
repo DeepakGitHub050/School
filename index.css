@@ -26,17 +26,16 @@ p{
 u{
     color: white;
     filter: drop-shadow(8px 8px 10px rgb(150, 215, 154));
+    position: relative;
 }
 img{
     border-radius: 10%;
-    position: relative;
-    left: 30%;
     filter: drop-shadow(8px 8px 9px grey)
 }
 #pri{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     position: relative;
-    left: 45%;
+    left: 60%;
     color: white;
     font-weight: bold;
 }
@@ -45,23 +44,37 @@ img{
     font-weight: bold;
     color: rgb(230, 241, 190)
 }
+.images{
+    max-width: 900px;
+    max-height: fit-content;
+    margin: 0 auto;
+}
 #prin{
+    border-radius: 10%;
     position: relative;
-    width: 248px;
-    left: 548px
+    height: fit-content;
+    width: 36%;
+    left: 5%;
+    object-fit: cover;
 }
 #rak{
     border-radius: 10%;
     position: relative;
-    left: 760px;
+    left: 37.5%;
+    height: fit-content;
+    width: 30%;
 }
 #mana{
     position: relative;
-    left: 30.5%;
-    bottom: 100%;
+    left: 14%;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     font-weight: bold;
+}
+.students{
+    max-width: 500px;
+    max-height: fit-content;
+    margin: 0 auto;
 }
 #st{
     font-weight: bold;
@@ -70,13 +83,19 @@ img{
 }
 #stu{
     position: relative;
-    width: 30%;
-    left: 35%;
+    height: 100%;
+    width: 100%;
+    left: 0%;
 }
 #tri{
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(230, 241, 190);
+}
+.sports{
+    max-width: 500px;
+    max-height: fit-content;
+    margin: 0 auto;
 }
 #sport{
     font-weight: bold;
@@ -85,6 +104,7 @@ img{
 }
 #sp{
     position: relative;
-    left: 38%;
-    width: 25%;
+    left: 10%;
+    height: 50%;
+    width: 80%;
 }
