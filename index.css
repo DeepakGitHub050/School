@@ -9,7 +9,7 @@
 
 }
 body{
-    background: url(./images/BSS.jpg);
+    background: url(./images/istockphoto-1182650732-170667a.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -18,7 +18,7 @@ h1{
     font-family: sans-serif;
 }
 h3{
-    color: brown;
+    color: white;
     font-family: cursive;
 }
 p{
@@ -77,4 +77,15 @@ img{
 #tri{
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(230, 241, 190);
+}
+#sport{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(230, 241, 190);
+}
+#sp{
+    position: relative;
+    left: 38%;
+    width: 25%;
 }
