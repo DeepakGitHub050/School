@@ -1,110 +1,116 @@
-#add{
+#add {
     font-weight: 500;
     font-family: sans-serif;
 }
-#history{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+#history {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     color: rgb(230, 241, 190);
 }
-body{
+
+body {
     background: url(./images/istockphoto-1182650732-170667a.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{
+
+h1 {
     color: white;
     font-family: sans-serif;
 }
-h3{
+
+h2 {
     color: white;
     font-family: cursive;
 }
-p{
+
+p {
     color: white;
 }
-u{
+
+u {
     color: white;
     filter: drop-shadow(8px 8px 10px rgb(150, 215, 154));
     position: relative;
 }
-img{
+
+img {
     border-radius: 10%;
     filter: drop-shadow(8px 8px 9px grey)
 }
-#pri{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    position: relative;
-    left: 63%;
-    color: white;
-    font-weight: bold;
-}
-#our{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+#our {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bold;
     color: rgb(230, 241, 190)
 }
-.images{
+
+.images {
     max-width: fit-content;
     max-height: fit-content;
     margin: 0 auto;
 }
-#prin{
-    border-radius: 10%;
-    position: relative;
-    height: fit-content;
-    width: 36%;
-    left: 5%;
-    object-fit: cover;
-}
-#rak{
-    border-radius: 10%;
-    position: relative;
-    left: 37.5%;
-    height: fit-content;
-    width: 30%;
-}
-#mana{
-    position: relative;
-    left: 14%;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+#mana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     font-weight: bold;
+    margin-left: 42%;
 }
-.students{
-    max-width: 500px;
-    max-height: fit-content;
-    margin: 0 auto;
+
+#pri {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-left: 32%;
 }
-#st{
+
+#student {
+    width: 70%;
+    margin-left: 15%;
+    color: rgb(230, 241, 190);
+}
+
+#st {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(230, 241, 190);
+}
+
+#trishul {
+    width: 70%;
+    margin-left: 15%;
+}
+
+#tri {
+    color: rgb(230, 241, 190);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+#image {
+    width: 50%;
+}
+
+#sport {
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(230, 241, 190);
 }
-#stu{
-    position: relative;
-    height: 100%;
-    width: 100%;
-    left: 0%;
+
+#sp {
+    width: 70%;
+    margin-left: 15%;
 }
-#tri{
-    font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(230, 241, 190);
+
+#prin {
+    width: 50%;
+    margin-left: 30%;
 }
-.sports{
-    max-width: 500px;
-    max-height: fit-content;
-    margin: 0 auto;
-}
-#sport{
-    font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: rgb(230, 241, 190);
-}
-#sp{
-    position: relative;
-    left: 10%;
-    height: 50%;
-    width: 80%;
+
+#rak {
+    width: 40%;
+    margin-left: 20%;
 }
